@@ -1,0 +1,6 @@
+requests==2.27.1
+beautifulsoup4==4.10.0
+web3==5.28.0
+pyuseragents==1.0.5
+loguru==0.6.0
+urllib3==1.26.9
